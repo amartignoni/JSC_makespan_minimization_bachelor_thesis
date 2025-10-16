@@ -1,0 +1,2 @@
+Nb of jobs, Nb of Machines, Time seed, Machine seed, Upper bound, Lower bound
+        50        20    8493988    2738939      2868      2868

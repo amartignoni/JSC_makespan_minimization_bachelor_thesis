@@ -1,0 +1,2 @@
+Nb of jobs, Nb of Machines, Time seed, Machine seed, Upper bound, Lower bound
+        30        15 1549372605  596993084      1815      1771

@@ -1,0 +1,7 @@
+Key,Value
+optimal_status,0
+solution,13567
+cpu_time,3600.0761380195618
+gap,0.8979140561656962
+upper_bound,1385
+lower_bound,13567

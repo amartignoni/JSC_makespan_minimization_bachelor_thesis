@@ -1,0 +1,42 @@
+@book{blazewicz2007handbook,
+  title     = {Handbook of Scheduling: From Theory to Applications},
+  author    = {Blazewicz, Jacek and Ecker, Klaus H. and Pesch, Erwin and Schmidt, Günter and Weglarz, Jan},
+  year      = {2007},
+  publisher = {Springer},
+  address   = {Berlin, Heidelberg},
+  isbn      = {978-3-540-28046-0}
+}
+
+@article{sotskov1995nphardness,
+  author    = {Sotskov, Y. N. and Shakhlevich, N. V.},
+  title     = {NP-hardness of shop scheduling problems with three jobs},
+  journal   = {Discrete Applied Mathematics},
+  volume    = {59},
+  year      = {1995},
+  pages     = {237--266},
+  issn      = {0166-218X},
+  doi       = {10.1016/0166-218X(94)00080-Z}
+}
+
+@article{sakai2003note,
+  author    = {Sakai, Shuichi and Togasaki, Mizue and Yamazaki, Koji},
+  title     = {A note on greedy algorithms for the maximum weighted independent set problem},
+  journal   = {Discrete Applied Mathematics},
+  volume    = {126},
+  number    = {2–3},
+  year      = {2003},
+  pages     = {313--322},
+  issn      = {0166-218X},
+  doi       = {10.1016/S0166-218X(02)00285-1}
+}
+
+@article{tellache2014genetic,
+  author    = {Tellache, Abdelkader and Kerbache, Lakhdar},
+  title     = {A genetic algorithm for scheduling open shops with conflict graphs to minimize the makespan},
+  journal   = {Computers \& Industrial Engineering},
+  volume    = {75},
+  year      = {2014},
+  pages     = {195--204},
+  issn      = {0360-8352},
+  doi       = {10.1016/j.cie.2014.06.004}
+}

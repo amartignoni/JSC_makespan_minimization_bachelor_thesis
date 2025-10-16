@@ -1,0 +1,4 @@
+jlb: 120
+mlb: 55
+gwmin_lb: 480
+gwmin2_lb: 480

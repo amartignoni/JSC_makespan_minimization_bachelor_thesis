@@ -1,0 +1,182 @@
+\begin{thebibliography}{24}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Blazewicz et~al.(2007)Blazewicz, Ecker, Pesch, Schmidt, and
+  Weglarz]{blazewicz2007handbook}
+J.~Blazewicz, K.~H. Ecker, E.~Pesch, G.~Schmidt, and J.~Weglarz.
+\newblock \emph{Handbook of Scheduling: From Theory to Applications}.
+\newblock Springer, Berlin, Heidelberg, 2007.
+\newblock ISBN 978-3-540-28046-0.
+
+\bibitem[B{\"u}rgy and Gr{\"o}flin(2016)]{buergy2016blocking_rail_bound}
+R.~B{\"u}rgy and H.~Gr{\"o}flin.
+\newblock The blocking job shop with rail-bound transportation.
+\newblock \emph{Journal of Combinatorial Optimization}, 31\penalty0
+  (1):\penalty0 152--181, 2016.
+\newblock ISSN 1573-2886.
+\newblock \doi{10.1007/s10878-014-9723-3}.
+
+\bibitem[Davis(1985)]{davis1985applying}
+L.~Davis.
+\newblock Applying adaptive algorithms to epistatic domains.
+\newblock Technical report, University of Pittsburgh, 1985.
+
+\bibitem[Erdős and Rényi(1959)]{erdos1959random}
+P.~Erdős and A.~Rényi.
+\newblock On random graphs i.
+\newblock \emph{Publicationes Mathematicae}, 6:\penalty0 290--297, 1959.
+
+\bibitem[Falkenauer and Bouffouix(1991)]{falkenauer1991genetic}
+E.~Falkenauer and S.~Bouffouix.
+\newblock A genetic algorithm for job shop.
+\newblock In \emph{Proceedings of the 1991 IEEE International Conference on
+  Robotics and Automation}, pages 824--829, Sacramento, California, USA, 1991.
+  IEEE Computer Society Press.
+\newblock \doi{10.1109/ROBOT.1991.131689}.
+
+\bibitem[Gao and Pan(2016)]{gao2016shuffled}
+L.~Gao and Q.-K. Pan.
+\newblock A shuffled multi-swarm micro-migrating birds optimizer for a
+  multi-resource-constrained flexible job shop scheduling problem.
+\newblock \emph{Information Sciences}, 372:\penalty0 655--676, 2016.
+\newblock ISSN 0020-0255.
+\newblock \doi{10.1016/j.ins.2016.08.046}.
+
+\bibitem[Garey and Johnson(1979)]{garey1979computers}
+M.~R. Garey and D.~S. Johnson.
+\newblock \emph{Computers and Intractability: A Guide to the Theory of
+  NP-Completeness}.
+\newblock W. H. Freeman and Company, San Francisco, 1979.
+
+\bibitem[Glover(1986)]{glover1986}
+F.~Glover.
+\newblock Future paths for integer programming and links to artificial
+  intelligence.
+\newblock \emph{Computers \& Operations Research}, 13\penalty0 (5):\penalty0
+  533--549, 1986.
+\newblock \doi{10.1016/0305-0548(86)90048-1}.
+
+\bibitem[Glover(1989)]{glover1989}
+F.~Glover.
+\newblock Tabu search—part i.
+\newblock \emph{ORSA Journal on Computing}, 1\penalty0 (3):\penalty0 190--206,
+  1989.
+\newblock \doi{10.1287/ijoc.1.3.190}.
+
+\bibitem[Goldberg and Lingle~Jr(1985)]{goldberg1985alleles}
+D.~E. Goldberg and R.~Lingle~Jr.
+\newblock Alleles, loci, and the traveling salesman problem.
+\newblock \emph{Proceedings of an International Conference on Genetic
+  Algorithms and their Applications}, 1985.
+
+\bibitem[Graham et~al.(1979)Graham, Lawler, Lenstra, and
+  Rinnooy~Kan]{graham1979optimization}
+R.~L. Graham, E.~L. Lawler, J.~K. Lenstra, and A.~H.~G. Rinnooy~Kan.
+\newblock Optimization and approximation in deterministic sequencing and
+  scheduling: a survey.
+\newblock \emph{Annals of Discrete Mathematics}, 5:\penalty0 287--326, 1979.
+\newblock ISSN 0167-5060.
+\newblock \doi{10.1016/S0167-5060(08)70356-X}.
+
+\bibitem[{Gurobi Optimization, LLC}(2024)]{gurobi2024}
+{Gurobi Optimization, LLC}.
+\newblock \emph{Gurobi Optimizer Reference Manual}, 2024.
+\newblock URL \url{https://www.gurobi.com}.
+\newblock Available at \url{https://www.gurobi.com}.
+
+\bibitem[Holland(1975)]{holland1975adaptation}
+J.~H. Holland.
+\newblock \emph{Adaptation in Natural and Artificial Systems}.
+\newblock University of Michigan Press, 1975.
+
+\bibitem[Lawler et~al.(1993)Lawler, Lenstra, Rinnooy~Kan, and
+  Shmoys]{lawler1993sequencing}
+E.~L. Lawler, J.~K. Lenstra, A.~H.~G. Rinnooy~Kan, and D.~B. Shmoys.
+\newblock Sequencing and scheduling: Algorithms and complexity.
+\newblock In S.~C. Graves, A.~H.~G. Rinnooy~Kan, and P.~H. Zipkin, editors,
+  \emph{Handbooks in Operations Research and Management Science}, volume~4,
+  pages 445--522. Elsevier, 1993.
+\newblock ISBN 978-0-444-88407-6.
+\newblock \doi{10.1016/S0927-0507(05)80189-6}.
+
+\bibitem[Oliver et~al.(1987)Oliver, Smith, and Holland]{oliver1987study}
+I.~Oliver, D.~Smith, and J.~Holland.
+\newblock A study of permutation crossover operators on the traveling salesman
+  problem.
+\newblock In \emph{Proceedings of the Second International Conference on
+  Genetic Algorithms}, pages 224--230, 1987.
+
+\bibitem[Panwalkar and Koulamas(2016)]{panwalkar2016proportionate}
+S.~S. Panwalkar and C.~Koulamas.
+\newblock The proportionate two-machine no-wait job shop scheduling problem.
+\newblock \emph{European Journal of Operational Research}, 252\penalty0
+  (1):\penalty0 131--135, 2016.
+\newblock ISSN 0377-2217.
+\newblock \doi{10.1016/j.ejor.2016.01.010}.
+
+\bibitem[Pinedo(2008)]{pinedo2008scheduling}
+M.~L. Pinedo.
+\newblock \emph{Scheduling: Theory, Algorithms, and Systems}.
+\newblock Springer, New York, 3rd edition, 2008.
+\newblock ISBN 978-0-387-78934-7.
+\newblock \doi{10.1007/978-0-387-78935-4}.
+
+\bibitem[Sakai et~al.(2003)Sakai, Togasaki, and Yamazaki]{sakai2003note}
+S.~Sakai, M.~Togasaki, and K.~Yamazaki.
+\newblock A note on greedy algorithms for the maximum weighted independent set
+  problem.
+\newblock \emph{Discrete Applied Mathematics}, 126\penalty0 (2–3):\penalty0
+  313--322, 2003.
+\newblock ISSN 0166-218X.
+\newblock \doi{10.1016/S0166-218X(02)00285-1}.
+
+\bibitem[Schrijver(2003)]{schrijver2003}
+A.~Schrijver.
+\newblock \emph{Combinatorial Optimization: Polyhedra and Efficiency},
+  volume~24 of \emph{Algorithms and Combinatorics}.
+\newblock Springer, Berlin, Heidelberg, 2003.
+\newblock ISBN 978-3-540-44389-6.
+
+\bibitem[Sotskov and Shakhlevich(1995)]{sotskov1995nphardness}
+Y.~N. Sotskov and N.~V. Shakhlevich.
+\newblock Np-hardness of shop scheduling problems with three jobs.
+\newblock \emph{Discrete Applied Mathematics}, 59:\penalty0 237--266, 1995.
+\newblock ISSN 0166-218X.
+\newblock \doi{10.1016/0166-218X(94)00080-Z}.
+
+\bibitem[Taillard(1993)]{taillard1993benchmarks}
+E.~Taillard.
+\newblock Benchmarks for basic scheduling problems.
+\newblock 64\penalty0 (2):\penalty0 278--285, 1993.
+\newblock ISSN 0377-2217.
+\newblock \doi{10.1016/0377-2217(93)90182-M}.
+
+\bibitem[Tellache and Kerbache(2023)]{tellache2023genetic}
+A.~Tellache and L.~Kerbache.
+\newblock A genetic algorithm for scheduling open shops with conflict graphs to
+  minimize the makespan.
+\newblock \emph{Computers \& Industrial Engineering}, 75:\penalty0 195--204,
+  2023.
+\newblock ISSN 0360-8352.
+\newblock \doi{10.1016/j.cie.2014.06.004}.
+
+\bibitem[Xiong et~al.(2022)Xiong, Shi, Ren, and Hu]{xiong2022survey}
+H.~Xiong, S.~Shi, D.~Ren, and J.~Hu.
+\newblock A survey of job shop scheduling problem: The types and models.
+\newblock \emph{Computers \& Operations Research}, 142:\penalty0 105731, 2022.
+\newblock ISSN 0305-0548.
+\newblock \doi{10.1016/j.cor.2022.105731}.
+
+\bibitem[Yang and Gu(2016)]{yang2016pareto}
+Y.~Z. Yang and X.~S. Gu.
+\newblock Pareto-based complete local search and combined timetabling for
+  multi-objective job shop scheduling problem with no-wait constraint.
+\newblock \emph{Journal of Donghua University (English Edition)}, 33\penalty0
+  (4):\penalty0 601--624, 2016.
+\newblock ISSN 1672-5220.
+
+\end{thebibliography}
