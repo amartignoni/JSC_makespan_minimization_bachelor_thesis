@@ -1,0 +1,1 @@
+# JSC_makespan_minimization_bachelor_thesis
