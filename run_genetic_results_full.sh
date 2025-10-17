@@ -1,13 +1,11 @@
 #!/bin/bash
 #SBATCH --job-name=JLC-GA-Full-Run     # Job name
 #SBATCH --mail-type=END,FAIL           # Mail events
-#SBATCH --mail-user=augustin.martignoni@unifr.ch
+#SBATCH --mail-user=<redacted>
 #SBATCH --time=96:00:00                # Adjust depending on expected runtime
 #SBATCH --output=JLC-GA-Full-Run_%j.log
-#SBATCH --nodelist=diufrd201           # Only CPU node
+#SBATCH --nodelist=<redacted>          # Only CPU node
 #SBATCH --mincpus=128                  # Ask for enough threads
-
-#conda activate martignoniEnv
 
 RUN_NUMBER=({1..5})
 OUTPUT_DIR="genetic_results"
