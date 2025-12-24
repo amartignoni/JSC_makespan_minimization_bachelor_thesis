@@ -101,7 +101,8 @@ def non_delay_schedule(machine_operation_order, times_array, cg_matrix, machine_
 
             if prev is not None:  
                 
-                if idx < b:
+                #print(prev)
+                if idx < prev[1]:
                     per_machine_choice[m] = (op, idx)
 
         # final list of candidates for scheduling
@@ -164,7 +165,7 @@ def non_delay_schedule(machine_operation_order, times_array, cg_matrix, machine_
 
     # compute makespan
     cmax = 0
-    f
+    
     for ops in schedule_by_machine.values():
         for (_, _, s, e) in ops:
             if e > cmax:
@@ -377,9 +378,9 @@ class GeneticAlgorithm:
 
     # Linear order crossover
     # same as order crossover, except the creation of the children
-    def _lox(self, a, b):
+    def _lox(self, p1, p2):
         
-        size = len(a)
+        size = len(p1)
         
         start, end = sorted(random.sample(range(size), 2))
         
@@ -633,7 +634,7 @@ class GeneticAlgorithm:
                 break
 
             # additional stopping condition for large job-count   
-            if self.num_jobs * >= 50:
+            if self.num_jobs >= 50:
                 
                 time_now = time.time()
 
